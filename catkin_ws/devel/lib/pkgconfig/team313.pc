@@ -1,0 +1,8 @@
+prefix=/home/tan/catkin_ws/devel
+
+Name: team313
+Description: Description of team313
+Version: 0.0.0
+Cflags: -I/home/tan/catkin_ws/src/lane_detect/include
+Libs: -L/home/tan/catkin_ws/devel/lib -lapi_lane_detection
+Requires: roscpp
